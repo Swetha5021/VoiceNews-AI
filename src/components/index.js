@@ -1,0 +1,1 @@
+export { default as NewsCards } from './NewsCards/newsCards';
